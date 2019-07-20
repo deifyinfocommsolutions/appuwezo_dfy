@@ -1,2 +1,1 @@
-# appuwezo_dfy
-Portal for Uwezo Mobile
+Portal for Uwezo Mobile for iBeads
